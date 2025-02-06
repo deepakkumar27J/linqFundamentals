@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\linqfundamentals.csproj": {}
+    "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\linqfundamentals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\linqfundamentals.csproj": {
+    "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\linqfundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\linqfundamentals.csproj",
+        "projectUniqueName": "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\linqfundamentals.csproj",
         "projectName": "linqfundamentals",
-        "projectPath": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\linqfundamentals.csproj",
+        "projectPath": "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\linqfundamentals.csproj",
         "packagesPath": "C:\\Users\\dkumar\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\obj\\",
         "projectStyle": "PackageReference",

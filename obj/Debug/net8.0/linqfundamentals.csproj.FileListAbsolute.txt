@@ -1,0 +1,16 @@
+C:\Users\dkumar\Documents\trainings\linqFundamentals\bin\Debug\net8.0\linqfundamentals.exe
+C:\Users\dkumar\Documents\trainings\linqFundamentals\bin\Debug\net8.0\linqfundamentals.deps.json
+C:\Users\dkumar\Documents\trainings\linqFundamentals\bin\Debug\net8.0\linqfundamentals.runtimeconfig.json
+C:\Users\dkumar\Documents\trainings\linqFundamentals\bin\Debug\net8.0\linqfundamentals.dll
+C:\Users\dkumar\Documents\trainings\linqFundamentals\bin\Debug\net8.0\linqfundamentals.pdb
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.AssemblyInfoInputs.cache
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.AssemblyInfo.cs
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.csproj.CoreCompileInputs.cache
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.sourcelink.json
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.dll
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\refint\linqfundamentals.dll
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.pdb
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\linqfundamentals.genruntimeconfig.cache
+C:\Users\dkumar\Documents\trainings\linqFundamentals\obj\Debug\net8.0\ref\linqfundamentals.dll
+C:\Users\dkumar\Documents\trainings\linqFundamentals\bin\Debug\net8.0\books.csv
