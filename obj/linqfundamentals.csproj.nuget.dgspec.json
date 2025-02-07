@@ -11,7 +11,7 @@
         "projectName": "linqfundamentals",
         "projectPath": "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\linqfundamentals.csproj",
         "packagesPath": "C:\\Users\\dkumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\obj\\",
+        "outputPath": "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

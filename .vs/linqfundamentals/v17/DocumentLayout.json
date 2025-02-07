@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|c:\\users\\dkumar\\documents\\trainings\\linqfundamentals\\authorwithbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|solutionrelative:authorwithbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|c:\\users\\dkumar\\documents\\trainings\\linqfundamentals\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|c:\\users\\dkumar\\documents\\trainings\\linqfundamentals\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|solutionrelative:publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|c:\\users\\dkumar\\documents\\trainings\\linqfundamentals\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|c:\\users\\dkumar\\documents\\trainings\\linqfundamentals\\authorwithbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|solutionrelative:authorwithbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{539D706F-145F-4709-9E25-891B02376B19}|linqfundamentals.csproj|c:\\users\\dkumar\\documents\\trainings\\linqfundamentals\\linqfundamentals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,11 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\Publisher.cs",
+              "RelativeDocumentMoniker": "Publisher.cs",
+              "ToolTip": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\Publisher.cs",
+              "RelativeToolTip": "Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:02:03.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthorWithBooks.cs",
               "DocumentMoniker": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\AuthorWithBooks.cs",
               "RelativeDocumentMoniker": "AuthorWithBooks.cs",
@@ -42,31 +63,29 @@
               "RelativeToolTip": "AuthorWithBooks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:06:41.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T17:06:41.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "linqfundamentals",
+              "DocumentIndex": 5,
+              "Title": "linqfundamentals.csproj",
               "DocumentMoniker": "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\linqfundamentals.csproj",
               "RelativeDocumentMoniker": "linqfundamentals.csproj",
               "ToolTip": "C:\\Users\\dkumar\\Documents\\trainings\\linqFundamentals\\linqfundamentals.csproj",
               "RelativeToolTip": "linqfundamentals.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T12:48:22.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T12:48:22.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
               "ToolTip": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T12:48:30.548Z",
               "EditorCaption": ""
@@ -79,7 +98,7 @@
               "RelativeDocumentMoniker": "Author.cs",
               "ToolTip": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\Author.cs",
               "RelativeToolTip": "Author.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T12:43:35.992Z",
               "EditorCaption": ""
@@ -92,7 +111,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dkumar\\Documents\\trainings\\linqfundamentals\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwHEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T11:21:30.342Z",
               "EditorCaption": ""

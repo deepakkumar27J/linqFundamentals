@@ -43,7 +43,7 @@ namespace linqfundamentals
                           "1,1984,1,1949,Dystopian,9.99\n" +
                           "2,Harry Potter and the Philosopher's Stone,2,1997,Fantasy,8.99\n" +
                           "3,The Shining,3,1977,Horror,7.99";
-            var lines = csvData.Split( new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
+            var lines = csvData.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
             var header = lines.First();
             var booksFromCSV = lines.Skip(1)
                                                 .Select(line => line.Split(','))
@@ -79,8 +79,83 @@ namespace linqfundamentals
                 }
             };
 
-            // Q18
+            // Q20
+            var publishers = new List<Publisher>
+            {
+                new Publisher { AuthorId = 1, PublicationYear = 1949, PublisherName = "Secker & Warburg" },
+                new Publisher { AuthorId = 2, PublicationYear = 1997, PublisherName = "Bloomsbury" },
+                new Publisher { AuthorId = 3, PublicationYear = 1977, PublisherName = "Doubleday" }
+            };
+            //var booksWithPublisher = books.Join(
+            //    publishers,
+            //    b => new { b.AuthorId, b.PublicationYear },
+            //    publisher => new { publisher.AuthorId, publisher.PublicationYear },
+            //    (book, publisher) => new { book.Title, publisher.PublicationYear }
+            //).ToList();
+            //foreach (var item in booksWithPublisher)
+            //{
+            //    Console.WriteLine($"{item.Title} , {item.PublicationYear}");
+            //}
             
+            //Q25
+            //Q24 
+
+            //var booksPriceSum = books.CalculateTotalPrice();
+            //Console.WriteLine(booksPriceSum);
+
+            //Q23
+
+            //var sumOfPrice = books.Sum(b => b.Price);
+
+            //Console.WriteLine(sumOfPrice);
+
+            //Q22
+
+            //var authWithBookGroupJoin = authors.GroupJoin(books,
+            //    author => author.AuthorId,
+            //    book => book.BookId,
+            //    (author, booksGroup) => new { AuthorName = author.Name, Books = booksGroup });
+
+            //foreach (var author in authWithBookGroupJoin)
+            //{
+            //    Console.WriteLine($"{author.AuthorName}:");
+            //    foreach (var book in author.Books)
+            //    {
+            //        Console.WriteLine($"  - {book.Title}");
+            //    }
+            //}
+
+            //Q21
+            //var genreByGroup = booksFromFile.GroupBy(b => b.Genre)
+            //    .Select(b => new { Genre = b.Key, Count = b.Count() });
+
+            //foreach (var genre in genreByGroup)
+            //{
+            //    Console.WriteLine($"{genre.Genre}: {genre.Count} books");
+            //}
+
+            //Q19
+            //var authMethodBooks = books.Join(authors,
+            //    book => book.AuthorId,
+            //    author => author.AuthorId,
+            //        (book, author) => new { book.Title, author.Name });
+            //foreach (var item in authMethodBooks)
+            //{
+            //    Console.WriteLine($"{item.Name}, {item.Title}");
+            //}
+
+            // Q18
+            //var authBooks = from book in booksFromFile
+            //    join author in authors on book.AuthorId equals author.AuthorId
+            //    select new
+            //    {
+            //        author.Name,
+            //        book.Title
+            //    };
+            //foreach (var book in authBooks)
+            //{
+            //    Console.WriteLine($"{book.Name} , {book.Title}");
+            //}
 
             //var allBookTitles = authorsWithBooks.SelectMany(a => a.Books.Select(b => b.Title));
 

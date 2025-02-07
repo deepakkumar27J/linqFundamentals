@@ -56,5 +56,9 @@ namespace linqfundamentals
                     Price = decimal.Parse(parts[5])
                 }).ToList();
         }
+        public static decimal CalculateTotalPrice(this IEnumerable<Book> books)
+        {
+            return books.Sum(b => b.Price);
+        }
     }
 }

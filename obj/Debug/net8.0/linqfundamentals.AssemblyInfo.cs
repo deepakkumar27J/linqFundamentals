@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("linqfundamentals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e67060b484dfec477edb767ab88d8678fa5006b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c983722ee949427b408db25c224bca983682edd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("linqfundamentals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("linqfundamentals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
