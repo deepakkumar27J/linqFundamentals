@@ -643,22 +643,6 @@ var answer29 = {
 }
 
 /*
-Exercise 30: Writing a Basic Query using LINQ
-Question: Write a basic LINQ query to list all books ordered by their publication year. Answer:
-*/
-
- var answer30 = {
-    var orderedBooks = books.OrderBy(b => b.PublicationYear)
-                        .Select(b => b.Title);
-
-    foreach (var title in orderedBooks)
-    {
-        Console.WriteLine(title);
-    }
-
-}
-
-/*
 Exercise 31: Working with IQueryables and Expression Trees
 Question: Use IQueryable and expression trees to dynamically build a LINQ query that filters books by genre. Answer:
 
@@ -707,7 +691,6 @@ var answer32 = {
                                 .OrderByDescending(b => b.PublicationYear)
                                 .Select(b => new { b.Title, b.PublicationYear })
                                 .ToList();
-
         // The query above might be translated into an inefficient SQL query by the ORM.
         foreach (var book in booksByAuthor)
         {
