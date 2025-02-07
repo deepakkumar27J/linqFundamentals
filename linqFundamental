@@ -555,20 +555,20 @@ Exercise 26: Building Element-Oriented XML
 Question: Create an XML document for a collection of books, including book details, using LINQ to XML. Answer:
 */
 
-var answer26 = {
-    var booksXml = new XElement("Books",
-        books.Select(book => new XElement("Book",
-            new XAttribute("Id", book.BookId),
-            new XElement("Title", book.Title),
-            new XElement("AuthorId", book.AuthorId),
-            new XElement("PublicationYear", book.PublicationYear),
-            new XElement("Genre", book.Genre),
-            new XElement("Price", book.Price)
-        ))
-    );
-    Console.WriteLine(booksXml);
+// var answer26 = {
+//     var booksXml = new XElement("Books",
+//         books.Select(book => new XElement("Book",
+//             new XAttribute("Id", book.BookId),
+//             new XElement("Title", book.Title),
+//             new XElement("AuthorId", book.AuthorId),
+//             new XElement("PublicationYear", book.PublicationYear),
+//             new XElement("Genre", book.Genre),
+//             new XElement("Price", book.Price)
+//         ))
+//     );
+//     Console.WriteLine(booksXml);
 
-}
+// }
 
 /*
 Exercise 27: Functional Construction for Less Code
